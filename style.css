@@ -52,3 +52,6 @@
                     width: 20px;
                     color: #808080;
                 }
+                #contact a {
+                    text-decoration:none;
+                }
